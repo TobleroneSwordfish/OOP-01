@@ -1,2 +1,3 @@
 Text
 Line endings
+Another line
